@@ -17,35 +17,35 @@ console.log(wimbledonChampions());
 [
   {
     name: "Rod Laver",
-    events: [
+    titles: [
       {
-        event: "Gentlemen's Singles",
-        year: "1968"
+        title: "Gentlemen's Singles",
+        year: 1968
       },
       {
-        event: "Gentlemen's Singles",
-        year: "1969"
+        title: "Gentlemen's Singles",
+        year: 1969
       }
     ]
   },
   {
     name: "Billie Jean King",
-    events: [
+    titles: [
       {
-        event: "Ladies' Singles",
-        year: "1968"
+        title: "Ladies' Singles",
+        year: 1968
       },
       {
-        event: "Ladies' Singles",
-        year: "1972"
+        title: "Ladies' Singles",
+        year: 1972
       },
       {
-        event: "Ladies' Singles",
-        year: "1973"
+        title: "Ladies' Singles",
+        year: 1973
       },
       {
-        event: "Ladies' Singles",
-        year: "1975"
+        title: "Ladies' Singles",
+        year: 1975
       }
     ]
   },
