@@ -12,6 +12,7 @@
   "scripts": {
     "prebuild": "rm -rf ./dist",
     "build": "rollup -c --environment INCLUDE_DEPS,BUILD:production",
+    "build:watch": "rollup -c --environment INCLUDE_DEPS,BUILD:production --watch",
     "test": "bundlesize"
   },
   "bundlesize": [
