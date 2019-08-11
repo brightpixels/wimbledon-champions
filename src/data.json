@@ -1,0 +1,262 @@
+[
+  {
+    "year": "1968",
+    "gentlemen": "Rod Laver",
+    "ladies": "Billie Jean King"
+  },
+  {
+    "year": "1969",
+    "gentlemen": "Rod Laver",
+    "ladies": "Ann Jones"
+  },
+  {
+    "year": "1970",
+    "gentlemen": "John Newcombe",
+    "ladies": "Margaret Court"
+  },
+  {
+    "year": "1971",
+    "gentlemen": "John Newcombe",
+    "ladies": "Evonne Goolagong"
+  },
+  {
+    "year": "1972",
+    "gentlemen": "Stan Smith",
+    "ladies": "Billie Jean King"
+  },
+  {
+    "year": "1973",
+    "gentlemen": "Jan Kodeš",
+    "ladies": "Billie Jean King"
+  },
+  {
+    "year": "1974",
+    "gentlemen": "Jimmy Connors",
+    "ladies": "Chris Evert"
+  },
+  {
+    "year": "1975",
+    "gentlemen": "Arthur Ashe",
+    "ladies": "Billie Jean King"
+  },
+  {
+    "year": "1976",
+    "gentlemen": "Björn Borg",
+    "ladies": "Chris Evert"
+  },
+  {
+    "year": "1977",
+    "gentlemen": "Björn Borg",
+    "ladies": "Virginia Wade"
+  },
+  {
+    "year": "1978",
+    "gentlemen": "Björn Borg",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1979",
+    "gentlemen": "Björn Borg",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1980",
+    "gentlemen": "Björn Borg",
+    "ladies": "Evonne Goolagong Cawley"
+  },
+  {
+    "year": "1981",
+    "gentlemen": "John McEnroe",
+    "ladies": "Chris Evert Lloyd"
+  },
+  {
+    "year": "1982",
+    "gentlemen": "Jimmy Connors",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1983",
+    "gentlemen": "John McEnroe",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1984",
+    "gentlemen": "John McEnroe",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1985",
+    "gentlemen": "Boris Becker",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1986",
+    "gentlemen": "Boris Becker",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1987",
+    "gentlemen": "Pat Cash",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1988",
+    "gentlemen": "Stefan Edberg",
+    "ladies": "Steffi Graf"
+  },
+  {
+    "year": "1989",
+    "gentlemen": "Boris Becker",
+    "ladies": "Steffi Graf"
+  },
+  {
+    "year": "1990",
+    "gentlemen": "Stefan Edberg",
+    "ladies": "Martina Navratilova"
+  },
+  {
+    "year": "1991",
+    "gentlemen": "Michael Stich",
+    "ladies": "Steffi Graf"
+  },
+  {
+    "year": "1992",
+    "gentlemen": "Andre Agassi",
+    "ladies": "Steffi Graf"
+  },
+  {
+    "year": "1993",
+    "gentlemen": "Pete Sampras",
+    "ladies": "Steffi Graf"
+  },
+  {
+    "year": "1994",
+    "gentlemen": "Pete Sampras",
+    "ladies": "Conchita Martínez"
+  },
+  {
+    "year": "1995",
+    "gentlemen": "Pete Sampras",
+    "ladies": "Steffi Graf"
+  },
+  {
+    "year": "1996",
+    "gentlemen": "Richard Krajicek",
+    "ladies": "Steffi Graf"
+  },
+  {
+    "year": "1997",
+    "gentlemen": "Pete Sampras",
+    "ladies": "Martina Hingis"
+  },
+  {
+    "year": "1998",
+    "gentlemen": "Pete Sampras",
+    "ladies": "Jana Novotná"
+  },
+  {
+    "year": "1999",
+    "gentlemen": "Pete Sampras",
+    "ladies": "Lindsay Davenport"
+  },
+  {
+    "year": "2000",
+    "gentlemen": "Pete Sampras",
+    "ladies": "Venus Williams"
+  },
+  {
+    "year": "2001",
+    "gentlemen": "Goran Ivanišević",
+    "ladies": "Venus Williams"
+  },
+  {
+    "year": "2002",
+    "gentlemen": "Lleyton Hewitt",
+    "ladies": "Serena Williams"
+  },
+  {
+    "year": "2003",
+    "gentlemen": "Roger Federer",
+    "ladies": "Serena Williams"
+  },
+  {
+    "year": "2004",
+    "gentlemen": "Roger Federer",
+    "ladies": "Maria Sharapova"
+  },
+  {
+    "year": "2005",
+    "gentlemen": "Roger Federer",
+    "ladies": "Venus Williams"
+  },
+  {
+    "year": "2006",
+    "gentlemen": "Roger Federer",
+    "ladies": "Amélie Mauresmo"
+  },
+  {
+    "year": "2007",
+    "gentlemen": "Roger Federer",
+    "ladies": "Venus Williams"
+  },
+  {
+    "year": "2008",
+    "gentlemen": "Rafael Nadal",
+    "ladies": "Venus Williams"
+  },
+  {
+    "year": "2009",
+    "gentlemen": "Roger Federer",
+    "ladies": "Serena Williams"
+  },
+  {
+    "year": "2010",
+    "gentlemen": "Rafael Nadal",
+    "ladies": "Serena Williams"
+  },
+  {
+    "year": "2011",
+    "gentlemen": "Novak Djokovic",
+    "ladies": "Petra Kvitová"
+  },
+  {
+    "year": "2012",
+    "gentlemen": "Roger Federer",
+    "ladies": "Serena Williams"
+  },
+  {
+    "year": "2013",
+    "gentlemen": "Andy Murray",
+    "ladies": "Marion Bartoli"
+  },
+  {
+    "year": "2014",
+    "gentlemen": "Novak Djokovic",
+    "ladies": "Petra Kvitová"
+  },
+  {
+    "year": "2015",
+    "gentlemen": "Novak Djokovic",
+    "ladies": "Serena Williams"
+  },
+  {
+    "year": "2016",
+    "gentlemen": "Andy Murray",
+    "ladies": "Serena Williams"
+  },
+  {
+    "year": "2017",
+    "gentlemen": "Roger Federer",
+    "ladies": "Garbiñe Muguruza"
+  },
+  {
+    "year": "2018",
+    "gentlemen": "Novak Djokovic",
+    "ladies": "Angelique Kerber"
+  },
+  {
+    "year": "2019",
+    "gentlemen": "Novak Djokovic",
+    "ladies": "Simona Halep"
+  }
+]
