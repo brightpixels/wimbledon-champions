@@ -1,637 +1,637 @@
 [
   {
     "name": "Rod Laver",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1968"
+        "title": "Gentlemen's Singles",
+        "year": 1968
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1969"
+        "title": "Gentlemen's Singles",
+        "year": 1969
       }
     ]
   },
   {
     "name": "Billie Jean King",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1968"
+        "title": "Ladies' Singles",
+        "year": 1968
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1972"
+        "title": "Ladies' Singles",
+        "year": 1972
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1973"
+        "title": "Ladies' Singles",
+        "year": 1973
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1975"
+        "title": "Ladies' Singles",
+        "year": 1975
       }
     ]
   },
   {
     "name": "Ann Jones",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1969"
+        "title": "Ladies' Singles",
+        "year": 1969
       }
     ]
   },
   {
     "name": "John Newcombe",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1970"
+        "title": "Gentlemen's Singles",
+        "year": 1970
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1971"
+        "title": "Gentlemen's Singles",
+        "year": 1971
       }
     ]
   },
   {
     "name": "Margaret Court",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1970"
+        "title": "Ladies' Singles",
+        "year": 1970
       }
     ]
   },
   {
     "name": "Evonne Goolagong",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1971"
+        "title": "Ladies' Singles",
+        "year": 1971
       }
     ]
   },
   {
     "name": "Stan Smith",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1972"
+        "title": "Gentlemen's Singles",
+        "year": 1972
       }
     ]
   },
   {
     "name": "Jan Kodeš",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1973"
+        "title": "Gentlemen's Singles",
+        "year": 1973
       }
     ]
   },
   {
     "name": "Jimmy Connors",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1974"
+        "title": "Gentlemen's Singles",
+        "year": 1974
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1982"
+        "title": "Gentlemen's Singles",
+        "year": 1982
       }
     ]
   },
   {
     "name": "Chris Evert",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1974"
+        "title": "Ladies' Singles",
+        "year": 1974
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1976"
+        "title": "Ladies' Singles",
+        "year": 1976
       }
     ]
   },
   {
     "name": "Arthur Ashe",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1975"
+        "title": "Gentlemen's Singles",
+        "year": 1975
       }
     ]
   },
   {
     "name": "Björn Borg",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1976"
+        "title": "Gentlemen's Singles",
+        "year": 1976
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1977"
+        "title": "Gentlemen's Singles",
+        "year": 1977
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1978"
+        "title": "Gentlemen's Singles",
+        "year": 1978
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1979"
+        "title": "Gentlemen's Singles",
+        "year": 1979
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1980"
+        "title": "Gentlemen's Singles",
+        "year": 1980
       }
     ]
   },
   {
     "name": "Virginia Wade",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1977"
+        "title": "Ladies' Singles",
+        "year": 1977
       }
     ]
   },
   {
     "name": "Martina Navratilova",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1978"
+        "title": "Ladies' Singles",
+        "year": 1978
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1979"
+        "title": "Ladies' Singles",
+        "year": 1979
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1982"
+        "title": "Ladies' Singles",
+        "year": 1982
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1983"
+        "title": "Ladies' Singles",
+        "year": 1983
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1984"
+        "title": "Ladies' Singles",
+        "year": 1984
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1985"
+        "title": "Ladies' Singles",
+        "year": 1985
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1986"
+        "title": "Ladies' Singles",
+        "year": 1986
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1987"
+        "title": "Ladies' Singles",
+        "year": 1987
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1990"
+        "title": "Ladies' Singles",
+        "year": 1990
       }
     ]
   },
   {
     "name": "Evonne Goolagong Cawley",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1980"
+        "title": "Ladies' Singles",
+        "year": 1980
       }
     ]
   },
   {
     "name": "John McEnroe",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1981"
+        "title": "Gentlemen's Singles",
+        "year": 1981
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1983"
+        "title": "Gentlemen's Singles",
+        "year": 1983
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1984"
+        "title": "Gentlemen's Singles",
+        "year": 1984
       }
     ]
   },
   {
     "name": "Chris Evert Lloyd",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1981"
+        "title": "Ladies' Singles",
+        "year": 1981
       }
     ]
   },
   {
     "name": "Boris Becker",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1985"
+        "title": "Gentlemen's Singles",
+        "year": 1985
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1986"
+        "title": "Gentlemen's Singles",
+        "year": 1986
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1989"
+        "title": "Gentlemen's Singles",
+        "year": 1989
       }
     ]
   },
   {
     "name": "Pat Cash",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1987"
+        "title": "Gentlemen's Singles",
+        "year": 1987
       }
     ]
   },
   {
     "name": "Stefan Edberg",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1988"
+        "title": "Gentlemen's Singles",
+        "year": 1988
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1990"
+        "title": "Gentlemen's Singles",
+        "year": 1990
       }
     ]
   },
   {
     "name": "Steffi Graf",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1988"
+        "title": "Ladies' Singles",
+        "year": 1988
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1989"
+        "title": "Ladies' Singles",
+        "year": 1989
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1991"
+        "title": "Ladies' Singles",
+        "year": 1991
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1992"
+        "title": "Ladies' Singles",
+        "year": 1992
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1993"
+        "title": "Ladies' Singles",
+        "year": 1993
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1995"
+        "title": "Ladies' Singles",
+        "year": 1995
       },
       {
-        "event": "Ladies' Singles",
-        "year": "1996"
+        "title": "Ladies' Singles",
+        "year": 1996
       }
     ]
   },
   {
     "name": "Michael Stich",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1991"
+        "title": "Gentlemen's Singles",
+        "year": 1991
       }
     ]
   },
   {
     "name": "Andre Agassi",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1992"
+        "title": "Gentlemen's Singles",
+        "year": 1992
       }
     ]
   },
   {
     "name": "Pete Sampras",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1993"
+        "title": "Gentlemen's Singles",
+        "year": 1993
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1994"
+        "title": "Gentlemen's Singles",
+        "year": 1994
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1995"
+        "title": "Gentlemen's Singles",
+        "year": 1995
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1997"
+        "title": "Gentlemen's Singles",
+        "year": 1997
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1998"
+        "title": "Gentlemen's Singles",
+        "year": 1998
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "1999"
+        "title": "Gentlemen's Singles",
+        "year": 1999
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2000"
+        "title": "Gentlemen's Singles",
+        "year": 2000
       }
     ]
   },
   {
     "name": "Conchita Martínez",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1994"
+        "title": "Ladies' Singles",
+        "year": 1994
       }
     ]
   },
   {
     "name": "Richard Krajicek",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "1996"
+        "title": "Gentlemen's Singles",
+        "year": 1996
       }
     ]
   },
   {
     "name": "Martina Hingis",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1997"
+        "title": "Ladies' Singles",
+        "year": 1997
       }
     ]
   },
   {
     "name": "Jana Novotná",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1998"
+        "title": "Ladies' Singles",
+        "year": 1998
       }
     ]
   },
   {
     "name": "Lindsay Davenport",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "1999"
+        "title": "Ladies' Singles",
+        "year": 1999
       }
     ]
   },
   {
     "name": "Venus Williams",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2000"
+        "title": "Ladies' Singles",
+        "year": 2000
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2001"
+        "title": "Ladies' Singles",
+        "year": 2001
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2005"
+        "title": "Ladies' Singles",
+        "year": 2005
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2007"
+        "title": "Ladies' Singles",
+        "year": 2007
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2008"
+        "title": "Ladies' Singles",
+        "year": 2008
       }
     ]
   },
   {
     "name": "Goran Ivanišević",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "2001"
+        "title": "Gentlemen's Singles",
+        "year": 2001
       }
     ]
   },
   {
     "name": "Lleyton Hewitt",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "2002"
+        "title": "Gentlemen's Singles",
+        "year": 2002
       }
     ]
   },
   {
     "name": "Serena Williams",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2002"
+        "title": "Ladies' Singles",
+        "year": 2002
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2003"
+        "title": "Ladies' Singles",
+        "year": 2003
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2009"
+        "title": "Ladies' Singles",
+        "year": 2009
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2010"
+        "title": "Ladies' Singles",
+        "year": 2010
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2012"
+        "title": "Ladies' Singles",
+        "year": 2012
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2015"
+        "title": "Ladies' Singles",
+        "year": 2015
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2016"
+        "title": "Ladies' Singles",
+        "year": 2016
       }
     ]
   },
   {
     "name": "Roger Federer",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "2003"
+        "title": "Gentlemen's Singles",
+        "year": 2003
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2004"
+        "title": "Gentlemen's Singles",
+        "year": 2004
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2005"
+        "title": "Gentlemen's Singles",
+        "year": 2005
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2006"
+        "title": "Gentlemen's Singles",
+        "year": 2006
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2007"
+        "title": "Gentlemen's Singles",
+        "year": 2007
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2009"
+        "title": "Gentlemen's Singles",
+        "year": 2009
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2012"
+        "title": "Gentlemen's Singles",
+        "year": 2012
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2017"
+        "title": "Gentlemen's Singles",
+        "year": 2017
       }
     ]
   },
   {
     "name": "Maria Sharapova",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2004"
+        "title": "Ladies' Singles",
+        "year": 2004
       }
     ]
   },
   {
     "name": "Amélie Mauresmo",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2006"
+        "title": "Ladies' Singles",
+        "year": 2006
       }
     ]
   },
   {
     "name": "Rafael Nadal",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "2008"
+        "title": "Gentlemen's Singles",
+        "year": 2008
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2010"
+        "title": "Gentlemen's Singles",
+        "year": 2010
       }
     ]
   },
   {
     "name": "Novak Djokovic",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "2011"
+        "title": "Gentlemen's Singles",
+        "year": 2011
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2014"
+        "title": "Gentlemen's Singles",
+        "year": 2014
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2015"
+        "title": "Gentlemen's Singles",
+        "year": 2015
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2018"
+        "title": "Gentlemen's Singles",
+        "year": 2018
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2019"
+        "title": "Gentlemen's Singles",
+        "year": 2019
       }
     ]
   },
   {
     "name": "Petra Kvitová",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2011"
+        "title": "Ladies' Singles",
+        "year": 2011
       },
       {
-        "event": "Ladies' Singles",
-        "year": "2014"
+        "title": "Ladies' Singles",
+        "year": 2014
       }
     ]
   },
   {
     "name": "Andy Murray",
-    "events": [
+    "titles": [
       {
-        "event": "Gentlemen's Singles",
-        "year": "2013"
+        "title": "Gentlemen's Singles",
+        "year": 2013
       },
       {
-        "event": "Gentlemen's Singles",
-        "year": "2016"
+        "title": "Gentlemen's Singles",
+        "year": 2016
       }
     ]
   },
   {
     "name": "Marion Bartoli",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2013"
+        "title": "Ladies' Singles",
+        "year": 2013
       }
     ]
   },
   {
     "name": "Garbiñe Muguruza",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2017"
+        "title": "Ladies' Singles",
+        "year": 2017
       }
     ]
   },
   {
     "name": "Angelique Kerber",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2018"
+        "title": "Ladies' Singles",
+        "year": 2018
       }
     ]
   },
   {
     "name": "Simona Halep",
-    "events": [
+    "titles": [
       {
-        "event": "Ladies' Singles",
-        "year": "2019"
+        "title": "Ladies' Singles",
+        "year": 2019
       }
     ]
   }
