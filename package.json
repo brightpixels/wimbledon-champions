@@ -11,8 +11,8 @@
   "browser": "dist/bundle.umd.js",
   "scripts": {
     "prebuild": "rm -rf ./dist",
-    "build": "rollup -c --environment INCLUDE_DEPS,BUILD:production",
-    "build:watch": "rollup -c --environment INCLUDE_DEPS,BUILD:production --watch",
+    "build": "rollup -c",
+    "build:watch": "rollup -c -w",
     "test": "bundlesize"
   },
   "bundlesize": [
