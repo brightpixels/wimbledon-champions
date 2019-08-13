@@ -1,9 +1,10 @@
 import json from "rollup-plugin-json";
+import babel from "rollup-plugin-babel";
 import pkg from "./package.json";
 
 module.exports = {
   input: "src/index.js",
-  extetrnals: Object.keys(pkg.peerDependencies || {}),
+  external: Object.keys(pkg.peerDependencies || {}),
   output: [
     { file: pkg.main, format: "cjs" },
     { file: pkg.module, format: "es" },
@@ -14,6 +15,9 @@ module.exports = {
     }
   ],
   plugins: [
+    babel({
+      exclude: "node_modules/**"
+    }),
     json({
       exclude: "node_modules/**"
     })
